@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Java 作業/劃一個簡單的房屋"/>
+	<classpathentry kind="src" path="LearningArray/LearningArray/src"/>
+	<classpathentry kind="src" path="LearningEncapaulation/OverLoadBoxIng/src"/>
+	<classpathentry kind="src" path="LearningSring/src"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A-Prj/ANS.csf-1030615A-Prj"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP01"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP02"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP03"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP04"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP05"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615A/ANS.csf-1030615A/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B-Prj/STD.csf"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP01"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP02"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP03"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP04"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP05"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/ANS.csf-1030615B/ANS.csf-1030615B/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0101"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0102"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0103"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0104"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0105"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0106"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0107"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0108"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0109"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP01/JP0110"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0201"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0202"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0203"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0204"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0205"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0206"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0207"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0208"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0209"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP02/JP0210"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0301"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0302"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0303"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0304"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0305"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0306"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0307"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0308"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0309"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP03/JP0310"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0401"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0402"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0403"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0404"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0405"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0406"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0407"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0408"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0409"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP04/JP0410"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0501"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0502"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0503"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0504"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0505"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0506"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0507"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0508"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0509"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP05/JP0510"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0601/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0601/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0601/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0601/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0601/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0602/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0602/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0602/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0602/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0602/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0603/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0603/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0603/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0603/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0603/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0604/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0604/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0604/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0604/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0604/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0605/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0605/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0605/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0605/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0605/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0606/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0606/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0606/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0606/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0606/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0607/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0607/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0607/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0607/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0607/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0608/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0608/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0608/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0608/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0608/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0609/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0609/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0609/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0609/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0609/JP06_5"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0610/JP06_1"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0610/JP06_2"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0610/JP06_3"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0610/JP06_4"/>
+	<classpathentry kind="src" path="TQC/java6p/java6/JP06/JP0610/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始1-5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP601/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP601/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP601/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP601/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP601/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP602/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP602/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP602/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP602/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP602/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP603/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP603/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP603/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP603/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP603/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP604/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP604/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP604/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP604/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP604/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP605/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP605/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP605/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP605/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP605/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP606/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP606/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP606/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP606/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP606/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP607/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP607/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP607/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP607/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP607/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP608/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP608/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP608/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP608/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP608/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP609/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP609/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP609/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP609/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP609/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP610/Exam/JP06/JP06_1"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP610/Exam/JP06/JP06_2"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP610/Exam/JP06/JP06_3"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP610/Exam/JP06/JP06_4"/>
+	<classpathentry kind="src" path="TQC/TQC-Java原始1~6/TQC-原始6/JP610/Exam/JP06/JP06_5"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_1Full/JP6_1Full/src"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_2Full/JP6_2Full/src"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_3Full/JP6_3Full/src"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_4Full/JP6_4Full/src"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_5Full/JP6_5Full/src"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_6Full"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/608-5"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP601/JPA0601"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP601/JPA0602"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP601/JPA0603"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP601/JPA0604"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP601/JPA0605"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP608/JPA0601"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP608/JPA0602"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP608/JPA0603"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP608/JPA0604"/>
+	<classpathentry kind="src" path="TQC/試題全部解答JAVA專案 傅日明老師/TQC today 6 JP608/JPA0605"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="TQC/試題全部解答JAVA專案 許博學老師/JP6_5Full/JP6_5Full/bin"/>
+</classpath>
